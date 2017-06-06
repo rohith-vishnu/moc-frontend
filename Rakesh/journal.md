@@ -8,3 +8,17 @@
 ### Day-2
 - [Basic HTML and HTML5](http://beta.freecodecamp.com/en/map)
 - [Basic CSS](http://beta.freecodecamp.com/en/map)
+
+### Day-3 
+##### Was introduced to:
+- Applied Visual Design
+##### Things I learnt:
+- Decrease the Opacity of an Element
+- Adjust the Hover State of an Anchor Tag
+- Learn about Complementary Colorscompleted
+- Learn about Tertiary Colors
+##### Things which I struggled to learn:
+     (But learnt anyway)
+- Adjust the Hue of a Color
+- Use the CSS Transform Property skewX to Skew an Element Along the X-Axiscompleted
+- Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
