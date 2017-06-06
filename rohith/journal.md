@@ -46,4 +46,9 @@
     4. horizontal lines, del lines etc;
     5. opacity of elements;
     6. adjusting sizes of paragraphs and elements;
+  # Day 4
+    * review of concepts of html and css.
+    * concepts are easy to understand.
+    * trying to execute the concepts and understand how they work on my own in a editor
+    * folowing a project from [this website](https://ingeno.io/)
     
