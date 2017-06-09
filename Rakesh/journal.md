@@ -19,7 +19,7 @@
 - Learn about Complementary Colorscompleted
 - Learn about Tertiary Colors
 
-##### Things which I struggled to learn (But learnt anyway):
+### Things which I struggled to learn (But learnt anyway):
 - Adjust the Hue of a Color
 - Use the CSS Transform Property skewX to Skew an Element Along the X-Axiscompleted
 - Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
@@ -33,8 +33,6 @@
 - Improve Accessibility of Audio Content with the audio Element
 - Give Links Meaning by Using Descriptive Link Textcompleted
 
-### Things which I struggled to learn (But learnt anyway) :
- **Error**
 
 ## Day-5
 ### Was introduced to:
