@@ -12,3 +12,6 @@
 - learnt flexbox properties for css
 - learnt how to add youtube video in the webpage(embed code)
 - created a tribute page in codepen which is provided in fcc curriculum
+
+# DAY 3:
+- Completed basic javascript in free code camp curriculum
