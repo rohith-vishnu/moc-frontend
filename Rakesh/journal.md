@@ -34,4 +34,29 @@
 - Give Links Meaning by Using Descriptive Link Textcompleted
 
 ### Things which I struggled to learn (But learnt anyway) :
+ **Error**
 
+## Day-5
+### Was introduced to:
+- **Responsive Web Design Principles**
+
+### Things I learnt:
+- Create a Media Querycompleted
+- Make an Image Responsivecompleted
+- Use a Retina Image for Higher Resolution Displayscompleted
+- Make Typography Responsive
+
+### Things which I struggled to learn (But learnt anyway) :
+- Creating a Media Querycompleted
+
+## Day-6
+### Was introduced to:
+- **CSS Flexbox**
+
+### Things I learnt:
+- Use display: flex to Position Two Boxes
+- Apply the flex-direction Property to Create Rows in the Tweet Embed
+- Use the flex-wrap Property to Wrap a Row or Column
+- Use the flex Shorthand Property
+### Things which I struggled to learn (But learnt anyway) :
+- Add Flex Superpowers to the Tweet Embed
