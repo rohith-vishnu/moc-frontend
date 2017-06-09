@@ -26,7 +26,7 @@
 
 ## Day-4
 ### Was introduced to:
-- **Applied Accessibility**
+- Applied Accessibility
 
 ### Things I learnt:
 - Wrap Content in the article Element
@@ -36,7 +36,7 @@
 
 ## Day-5
 ### Was introduced to:
-- **Responsive Web Design Principles**
+- Responsive Web Design Principles
 
 ### Things I learnt:
 - Create a Media Querycompleted
@@ -49,7 +49,7 @@
 
 ## Day-6
 ### Was introduced to:
-- **CSS Flexbox**
+- CSS Flexbox
 
 ### Things I learnt:
 - Use display: flex to Position Two Boxes
