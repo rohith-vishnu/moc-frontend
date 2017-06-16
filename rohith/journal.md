@@ -69,4 +69,14 @@
 #### what i did :
  * trying to summarize all the concepts i have learn in html and css and create sample projects by combining d       different concepts.
  * planning to start java script by the end of the week so that i can give good amount of time for it.
+#  15/06 
+#### what i did:
+ * started with java script at [watchandcode](watchandcode.com) and freecodecamp
+ * gone through some refrences of java script
+# 16/06
+#### what i did:
+ * completed about 45% of the course at [watchandcode](watchandcode.com) 
+ * started reading the [eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) and completed about more than one and half         chapters in the book and seems very interesting till now. 
+#### where have i felt difficulty :
+* Every thing seems smooth until now as all the concepts i have learnt are fundaments to many programming languages i have known. 
  
