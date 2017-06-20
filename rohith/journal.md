@@ -78,5 +78,9 @@
  * completed about 45% of the course at [watchandcode](watchandcode.com) 
  * started reading the [eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) and completed about more than one and half         chapters in the book and seems very interesting till now. 
 #### where have i felt difficulty :
-* Every thing seems smooth until now as all the concepts i have learnt are fundaments to many programming languages i have known. 
+* Every thing seems smooth until now as all the concepts i have learnt are fundaments to many programming languages i have known.
+# 19/06 && 20/06
+ * completed 85% of practical javascript ;
+ * completed 3 and half units in eloquent js;
+  
  
