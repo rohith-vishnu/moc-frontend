@@ -82,5 +82,7 @@
 # 19/06 && 20/06
  * completed 85% of practical javascript ;
  * completed 3 and half units in eloquent js;
-  
+# 21/06 
+ * completed the practical js course !!
+ 
  
